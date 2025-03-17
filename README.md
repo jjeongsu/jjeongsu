@@ -1,6 +1,6 @@
 <div align="start">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&text=Welcome%20to%20Jeongsu's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=40&height=250)
+![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&text=Welcome%20to%20Jeongsu's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=40&height=250&fontColor=d6ace)
 
 👋🏼 Hi there! i'm **web frontend developer**. <br />
 i'm also interested in HCI and UX based design. <br />
