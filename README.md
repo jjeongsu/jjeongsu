@@ -2,11 +2,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Jeongsu's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-👋🏼 Hi there! i'm **web frontend developer**. 
-i'm also interested in HCI and UX based design.
+👋🏼 Hi there! i'm **web frontend developer**. <br />
+i'm also interested in HCI and UX based design. <br />
 
-I enjoy reading, swimming and painting. 🎨 🏊
-I hope to develop every beatiful things.🍀
+I enjoy reading, swimming and painting. 🎨 🏊 <br />
+I hope to develop every beatiful things.🍀 <br />
 
 </div>
 <div align="start">
