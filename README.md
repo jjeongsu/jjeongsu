@@ -6,7 +6,7 @@
 i'm also interested in HCI and UX based design. <br />
 
 I enjoy reading, swimming and painting. 🎨 🏊 <br />
-I hope to develop every beatiful things.🍀 <br />
+I hope to develop every beautiful things.🍀 <br />
 
 </div>
 <div align="start">
